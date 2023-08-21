@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.FindBestSeatTest2" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-04-19T11:42:07" hostname="INGWAR" time="0.062">
+  <properties/>
+  <testcase name="[1] 0" classname="org.example.FindBestSeatTest2" time="0.03"/>
+  <testcase name="[2] -1" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="[3] -48" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="[4] -50" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="[1] null, [true, true, false]" classname="org.example.FindBestSeatTest2" time="0.002"/>
+  <testcase name="[2] [5.0, 3.0, 5.5, 4.2], null" classname="org.example.FindBestSeatTest2" time="0.0"/>
+  <testcase name="[3] null, null" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="Check what method does if prices vector's lenght is not equal taken vector's lenght" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="[1] 3" classname="org.example.FindBestSeatTest2" time="0.003"/>
+  <testcase name="[2] 10" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="[3] 48" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <testcase name="Buying tickets for a total price greater than 100 for having a discount" classname="org.example.FindBestSeatTest2" time="0.002"/>
+  <testcase name="Buying tickets for testing the method functionality" classname="org.example.FindBestSeatTest2" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
